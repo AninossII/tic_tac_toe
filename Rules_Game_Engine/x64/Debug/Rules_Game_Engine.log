@@ -1,0 +1,10 @@
+﻿  NullRuleEngine.cpp
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(17,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(31,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(45,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(63,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(76,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(97,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(99,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aninoss\source\repos\Rules_Game_Engine\Rules_Game_Engine\NullRuleEngine.cpp(130,31): warning C4018: '<': signed/unsigned mismatch
+  Rules_Game_Engine.vcxproj -> C:\Users\Aninoss\source\repos\Rules_Game_Engine\x64\Debug\Rules_Game_Engine.exe
